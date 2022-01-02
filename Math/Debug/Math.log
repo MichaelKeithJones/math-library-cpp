@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+c:\users\michael\desktop\math\math\source1.cpp(522): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+  c:\users\michael\desktop\math\math\source1.cpp(654): note: see reference to function template instantiation 'void genProjectionMatrix<T>(T *,T,T,T,T,T)' being compiled
+          with
+          [
+              T=float
+          ]
+c:\users\michael\desktop\math\math\source1.cpp(525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\desktop\math\math\source1.cpp(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Math.vcxproj -> C:\Users\Michael\Desktop\Math\Debug\Math.exe
